@@ -20,7 +20,7 @@ function App() {
       {
         path: "lib",
         // initialDoc: "blank-Pdf.pdf",
-        licenseKey: "LYH6Q-RNN9O-KW676-KTZ7H-RTXUH",
+        licenseKey: "demo:1712119290981:7f03b54603000000000f2ca230f367dd049eb5200258506fc9a5d9347f",
         fullAPI: true,
       },
       viewerDiv.current as HTMLDivElement,
